@@ -83,7 +83,7 @@ top: -5px;
     
 }
 .forget label a{
-    color: #fff;
+    color: #f8f4f4;
     text-decoration: none;
 }
 .forget label a:hover{
@@ -102,7 +102,7 @@ button{
 }
 .register{
     font-size: .9em;
-    color: #fff;
+    color: #000000;
     text-align: center;
     margin: 25px 0 10px;
 }
